@@ -1,0 +1,7 @@
+E:\workproject\DigitalVillage\obj\Release\net6.0\PubTmp\Out\DigitaVillage.exe
+E:\workproject\DigitalVillage\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+E:\workproject\DigitalVillage\obj\Release\net6.0\PubTmp\Out\appsettings.json
+E:\workproject\DigitalVillage\obj\Release\net6.0\PubTmp\Out\DigitaVillage.dll
+E:\workproject\DigitalVillage\obj\Release\net6.0\PubTmp\Out\DigitaVillage.deps.json
+E:\workproject\DigitalVillage\obj\Release\net6.0\PubTmp\Out\DigitaVillage.runtimeconfig.json
+E:\workproject\DigitalVillage\obj\Release\net6.0\PubTmp\Out\DigitaVillage.pdb
